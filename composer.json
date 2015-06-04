@@ -1,0 +1,25 @@
+{
+    "name": "nayjest/str-case-converter",
+    "description": "Library for converting strings from camel case to snake case and vice versa.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vitalii Stepanenko",
+            "email": "mail@vitaliy.in"
+        }
+    ],
+    "require": {
+        "php": ">=5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.*"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Nayjest\\StrCaseConverter\\Test\\": "tests"
+        }
+    }
+}
