@@ -1,5 +1,8 @@
 # nayjest/str-case-converter
 
+[![Latest Stable Version](https://poser.pugx.org/nayjest/str-case-converter/v/stable.svg)](https://packagist.org/packages/nayjest/str-case-converter)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Nayjest/StrCaseConverter/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Nayjest/StrCaseConverter/?branch=master)
+
 Library for converting strings from camel case to snake case and vice versa.
 
 ## Installation
