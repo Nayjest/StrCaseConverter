@@ -1,4 +1,4 @@
-# nayjest/str-case-converter
+# `nayjest/str-case-converter`
 
 Library for converting strings from camel case to snake case and vice versa.
 
