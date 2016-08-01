@@ -37,7 +37,7 @@ use Nayjest\StrCaseConverter\Str;
 echo Str::toSnakeCase('MyString'); // 'my_string'
 
 // It's possible to use custom delimiter:
-echo Str::toCamelCase('OneMoreString', '-'); // 'one-more-string'
+echo Str::toSnakeCase('OneMoreString', '-'); // 'one-more-string'
 ```
 
 
