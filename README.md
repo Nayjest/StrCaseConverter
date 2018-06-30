@@ -19,7 +19,7 @@ composer require nayjest/str-case-converter
 
 ## Usage
 
-### Converting snake case to camel case
+### Converting from snake case to camel case
 
 ```php
 use Nayjest\StrCaseConverter\Str;
@@ -29,7 +29,7 @@ echo Str::toCamelCase('one_more_string'); // 'OneMoreString'
 ```
 Source string may be separated to words using following characters: '-', '_' and space.
 
-### Converting camel case to snake case
+### Converting from camel case to snake case
 
 ```php
 use Nayjest\StrCaseConverter\Str;
