@@ -21,6 +21,4 @@ class Test extends PHPUnit_Framework_TestCase
         self::assertEquals('simple', Str::toSnakeCase('Simple'));
         self::assertEquals('', Str::toSnakeCase(''));
     }
-
-
 }
